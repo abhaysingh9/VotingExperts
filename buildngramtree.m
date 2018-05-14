@@ -91,14 +91,3 @@ function [ngt] = standardize(ngtree,n)
     end
     ngt = ngtree;
 end
-
-
-
-
-
-
-
-
-
-
-
